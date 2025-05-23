@@ -7,7 +7,7 @@ With a background in physics from Durham University and international experience
 -  I’m currently learning React and Deep Learning.
 - Currently working on my poetry and language learning projects, and simulating Animal Evolution with Neural Networks and Genetic Algorithms.
 
-- Poetry Platform: [poetryplatform.org](https://poetryplatform.org) - "the Goodreads of Poetry"
+# Poetry Platform: [poetryplatform.org](https://poetryplatform.org) - "the Goodreads of Poetry"
 
 ![front](https://github.com/user-attachments/assets/9076665b-1336-49ee-b1e2-6a267e4c3d3f)
 
@@ -18,9 +18,13 @@ With a background in physics from Durham University and international experience
 
 
 
-  - [Study Mandarin](https://studymandarin.org) – an AI-powered Mandarin chatbot where users can practice conversation at different levels (HSK 1-6), save chat history, and build personalized "memories" with the bots.
+  # [Study Mandarin](https://studymandarin.org) – an AI-powered Mandarin chatbot where users can practice conversation at different levels (HSK 1-6), save chat history, and build personalized "memories" with the bots.
  
 ![chatbot with hover over](https://github.com/user-attachments/assets/809d1687-3edc-437d-9914-65019db85288)
+
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
 
 
 📫 Reach me:
