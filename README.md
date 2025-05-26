@@ -26,7 +26,7 @@ With a background in physics from Durham University and international experience
 
 ---
 
- # [Evolution sim](https://youtu.be/3XydFCMCIcw )) – This is a Python-based simulation of a simple ecosystem where **prey** and **predators** evolve over time based on their success in survival and reproduction. Traits like speed, energy efficiency, and vision are encoded in each agent's genes and mutate over generations.
+ # [Evolution sim](https://youtu.be/3XydFCMCIcw ) – This is a Python-based simulation of a simple ecosystem where **prey** and **predators** evolve over time based on their success in survival and reproduction. Traits like speed, energy efficiency, and vision are encoded in each agent's genes and mutate over generations.
 
  [repo here](https://github.com/HarryPilgrim/evolution-sim-python-practice)
 
