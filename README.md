@@ -13,6 +13,18 @@ With a background in physics from Durham University and international experience
 
 ![front](https://github.com/user-attachments/assets/9076665b-1336-49ee-b1e2-6a267e4c3d3f)
 
+Designed and developed a full-stack Python/Flask web application with responsive AJAX-driven frontend and a SQL database backend for managing thousands of users, poets, and poems. Scraped, processed, and managed a large JSON dataset of poems.
+
+● Automated Poem of the Day feature that generates and posts images to multiple social media platforms using APIs (Twitter, Bluesky).
+● Implemented a secure user system with account creation, authentication, password recovery via email, and role-based permissions.
+● Includes advanced search functionality for poets and users, and a comments and favourites system.
+● Languages/Frameworks: Python, Flask, JavaScript (AJAX), SQL
+● Frontend: HTML, CSS, Bootstrap 5, CKEditor
+● Backend: Flask, SQLAlchemy, SQLite
+● APIs: Social media APIs (Twitter, Bluesky), Flask-Mail
+● Tools: PythonAnywhere, Playwright, JSON, Git
+● Other: Data scraping, AJAX, secure password handling
+
 - Save your favorite poets & poems
 - Write & share your own poetry 
 - Follow other users & engage with the community
