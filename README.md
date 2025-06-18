@@ -15,6 +15,8 @@ With a background in physics from Durham University and international experience
 
 Designed and developed a full-stack Python/Flask web application with responsive AJAX-driven frontend and a SQL database backend for managing thousands of users, poets, and poems. Scraped, processed, and managed a large JSON dataset of poems.
 
+Currently at 200+ Users.
+
 ● Automated Poem of the Day feature that generates and posts images to multiple social media platforms using APIs (Twitter, Bluesky).
 
 ● Implemented a secure user system with account creation, authentication, password recovery via email, and role-based permissions.
