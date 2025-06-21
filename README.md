@@ -41,6 +41,11 @@ Currently at 200+ Users.
 - Follow other users & engage with the community
 - Post images & create a visual poetry experience
 
+- Trained a custom DistilGPT2 model using PyTorch and Hugging Face Transformers on a corpus of poetry. Fine-tuned the model locally, then pushed it to the Hugging Face Model Hub for inference. Integrated the hosted model into a Flask-based poetry website (poetryplatform.org) via Hugging Face’s Inference API, enabling users to generate AI-composed poems from text prompts directly on the site.
+
+  ![hugging face model](https://github.com/user-attachments/assets/3d852b59-d6a7-49d7-afb8-fd6ad655c3dc)
+
+
 ---
 
   # [Study Mandarin](https://studymandarin.org) – an AI-powered Mandarin chatbot where users can practice conversation at different levels (HSK 1-6), save chat history, and build personalized "memories" with the bots.
